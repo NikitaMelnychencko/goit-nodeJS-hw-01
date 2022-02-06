@@ -1,0 +1,26 @@
+{
+  "name": "goit-nodejs-hw-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "commander": "^9.0.0",
+    "nodemon": "^2.0.15",
+    "uuid": "^8.3.2"
+  },
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikitaMelnychencko/goit-nodeJS-hw-01.git"
+  },
+  "author": "Nikita Melnychenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NikitaMelnychencko/goit-nodeJS-hw-01/issues"
+  },
+  "homepage": "https://github.com/NikitaMelnychencko/goit-nodeJS-hw-01#readme"
+}
